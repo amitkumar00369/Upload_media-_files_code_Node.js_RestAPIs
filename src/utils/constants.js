@@ -1,0 +1,5 @@
+const AWS_BUCKET_NAME=""
+const AWS_ACCESS_KEY=""
+const AWS_ACCESS_KEY_ID=""
+const AWS_REGION=""
+const AWS_SECRET_ACCESS_KEY=""
